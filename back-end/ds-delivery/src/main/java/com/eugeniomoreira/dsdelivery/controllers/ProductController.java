@@ -1,7 +1,6 @@
 package com.eugeniomoreira.dsdelivery.controllers;
 
 import com.eugeniomoreira.dsdelivery.dto.ProductDTO;
-import com.eugeniomoreira.dsdelivery.entities.Product;
 import com.eugeniomoreira.dsdelivery.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
